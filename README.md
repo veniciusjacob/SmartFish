@@ -63,7 +63,8 @@ O projeto validou o conceito de automação sustentável, demonstrando viabilida
 </p>
 
 ---
-    
+
+
 ## Como Contribuir
 Contribuições são muito bem-vindas! Para contribuir com o projeto:
 
@@ -73,8 +74,8 @@ Contribuições são muito bem-vindas! Para contribuir com o projeto:
 4. Envie suas alterações para a sua branch remota: `git push origin minha-funcionalidade`
 5. Abra um **Pull Request** explicando as alterações realizadas.
 
+---
 ### Documentações
 [KanBan](https://github.com/users/EhoKira/projects/2)
 
----
 Projeto desenvolvido como parte das atividades acadêmicas do curso de Ciência da Computação da Universidade Federal de Roraima (UFRR), 2025.
