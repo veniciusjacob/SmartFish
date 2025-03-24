@@ -58,13 +58,6 @@ O projeto validou o conceito de automação sustentável, demonstrando viabilida
 ## Imagens
 ![image](Documentos/BigPictureHorta.png)
 
----
-<p align="center">
-  <img src="Documentos/SmartFish_Photo.jpg" alt="SmartFish Photo>
-</p>
-
----
-
 ## Como Contribuir
 Contribuições são muito bem-vindas! Para contribuir com o projeto:
 
