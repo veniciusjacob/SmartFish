@@ -78,4 +78,5 @@ Contribuições são muito bem-vindas! Para contribuir com o projeto:
 ### Documentações
 [KanBan](https://github.com/users/EhoKira/projects/2)
 
+---
 Projeto desenvolvido como parte das atividades acadêmicas do curso de Ciência da Computação da Universidade Federal de Roraima (UFRR), 2025.
