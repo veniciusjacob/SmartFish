@@ -9,7 +9,7 @@ alimentar seus componentes.
 ### Organograma
 Product Owner: Herbert Rocha
 
-Scrum Master: Eduardo Izidorio
+SCRUM Master: Eduardo Izidorio
 
 Desenvolvedor: Kevin Willyn
 
