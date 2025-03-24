@@ -57,13 +57,13 @@ O projeto validou o conceito de automação sustentável, demonstrando viabilida
 
 ## Imagens
 ![image](Documentos/BigPictureHorta.png)
+
 ---
 <p align="center">
   <img src="Documentos/SmartFish_Photo.jpg" alt="SmartFish Photo>
 </p>
 
 ---
-
 
 ## Como Contribuir
 Contribuições são muito bem-vindas! Para contribuir com o projeto:
@@ -75,8 +75,10 @@ Contribuições são muito bem-vindas! Para contribuir com o projeto:
 5. Abra um **Pull Request** explicando as alterações realizadas.
 
 ---
+
 ### Documentações
 [KanBan](https://github.com/users/EhoKira/projects/2)
 
 ---
+
 Projeto desenvolvido como parte das atividades acadêmicas do curso de Ciência da Computação da Universidade Federal de Roraima (UFRR), 2025.
